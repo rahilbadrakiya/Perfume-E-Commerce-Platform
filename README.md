@@ -54,9 +54,6 @@ For demonstration and testing purposes, you can access the management panel here
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your Home Page, Shop, and Admin Panel here for maximum impact on your resume!)*
 
 ---
 
