@@ -1,0 +1,12 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# XAMPP / Local Environment
+/config/db.php_backup
+php_errors.log
+
+# Temporary Files
+tmp/
+temp/
